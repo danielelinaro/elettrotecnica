@@ -8,7 +8,7 @@ MV := mv
 SED := sed
 EXTENSION := .eps
 
-all: ckt1 ckt2 clean
+all: ckt1 ckt2 graph clean
 
 ckt1:
 	$(RM) tmp.*
