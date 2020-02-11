@@ -1,0 +1,7 @@
+name: elt-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
